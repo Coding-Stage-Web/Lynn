@@ -1,0 +1,16 @@
+div{
+  background-color:paleturquoise;
+  width: 50vw;
+  text-shadow: 1px 1px gray;
+}
+
+.end{
+  visibility: hidden;
+}
+
+.image{
+  background-image: url(C:\Users\lolip\lrenai\Lynn\image\20230326_133253.jpg);
+  position:relative;
+  bottom: 100px;
+  left:50px;
+}
